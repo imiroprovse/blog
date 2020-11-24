@@ -1,2 +1,2 @@
 # blog
-https://imiroprovse.github.io/blog/index.html
+https://imiroprovse.github.io/blog.githab.io/index.html
